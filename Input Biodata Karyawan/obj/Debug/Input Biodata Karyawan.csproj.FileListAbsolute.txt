@@ -1,0 +1,10 @@
+C:\Users\Tri\source\repos\Input Biodata Karyawan\Input Biodata Karyawan\bin\Debug\Input Biodata Karyawan.exe.config
+C:\Users\Tri\source\repos\Input Biodata Karyawan\Input Biodata Karyawan\bin\Debug\Input Biodata Karyawan.exe
+C:\Users\Tri\source\repos\Input Biodata Karyawan\Input Biodata Karyawan\bin\Debug\Input Biodata Karyawan.pdb
+C:\Users\Tri\source\repos\Input Biodata Karyawan\Input Biodata Karyawan\obj\Debug\Input Biodata Karyawan.csproj.AssemblyReference.cache
+C:\Users\Tri\source\repos\Input Biodata Karyawan\Input Biodata Karyawan\obj\Debug\Input_Biodata_Karyawan.Form1.resources
+C:\Users\Tri\source\repos\Input Biodata Karyawan\Input Biodata Karyawan\obj\Debug\Input_Biodata_Karyawan.Properties.Resources.resources
+C:\Users\Tri\source\repos\Input Biodata Karyawan\Input Biodata Karyawan\obj\Debug\Input Biodata Karyawan.csproj.GenerateResource.cache
+C:\Users\Tri\source\repos\Input Biodata Karyawan\Input Biodata Karyawan\obj\Debug\Input Biodata Karyawan.csproj.CoreCompileInputs.cache
+C:\Users\Tri\source\repos\Input Biodata Karyawan\Input Biodata Karyawan\obj\Debug\Input Biodata Karyawan.exe
+C:\Users\Tri\source\repos\Input Biodata Karyawan\Input Biodata Karyawan\obj\Debug\Input Biodata Karyawan.pdb
